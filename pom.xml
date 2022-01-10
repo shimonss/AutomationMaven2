@@ -6,7 +6,7 @@
 
     <groupId>com.shimon.tools</groupId>
     <artifactId>AutomationMaven</artifactId>
-    <version>1.0.0</version>
+    <version>1.0-SNAPSHOT</version>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -16,7 +16,6 @@
             <version>7.4.0</version>
             <scope>test</scope>
         </dependency>
-
 
     </dependencies>
 
